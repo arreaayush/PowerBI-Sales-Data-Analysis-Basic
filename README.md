@@ -1,4 +1,3 @@
-# PowerBI-Sales-Data-Analysis-Basic
 # PowerBI Sales Data Analysis
 
 This repository contains my solution for Assignment 1 from Internshala Trainings, focusing on data cleaning, transformation, and visualization using Power BI.
